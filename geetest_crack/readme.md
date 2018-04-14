@@ -1,1 +1,1 @@
-利用selenium针对geetest活动条验证码做的的crack测试
+利用selenium针对geetest滑动条验证码做的crack测试
