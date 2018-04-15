@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-# Created on 2018-04-08 14:01:50
-# Project: tripadvisor
+
 
 from pyspider.libs.base_handler import *
 import pymongo
